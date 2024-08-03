@@ -1,18 +1,17 @@
 # ML Model for Customer Retention
 
-In this project, I will find the best model to assist Beta Bank in promoting more customer retention. Beta Bank already has a strong dataset with each observation being of one customer. The features of the dataset are all the key identifying characteristics of each customer and the target is 'Exited' - whether or not the customer has left. 
+In this project, I find a suitable machine learning mdoel to assist Beta Bank in promoting more customer retention. Beta Bank already has a strong dataset with each observation being of one customer. The features of the dataset are all the key identifying characteristics of each customer and the target is 'Exited' - whether or not the customer has left the bank. 
 
 ## DATASET OVERVIEW
 
 **Original Dataset:** <br>
 ![image](https://github.com/user-attachments/assets/911c320f-4e01-4bba-b6e0-8cf696749037)
-First feature is cut off-RowNumber 
+First feature 'RowNumber' is cut off
 
 **Features** <br>
 There are many irrelevant features in this dataset that were removed before training the models
 
 **Target**<br>
-
 Exited — сustomer has left<br> 
 0 = NO <br>
 1 = YES
