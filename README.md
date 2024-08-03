@@ -12,7 +12,7 @@ There are many irrelevant features in this dataset that were removed before trai
 **Target**<br>
 
 Exited — сustomer has left<br> 
-0 = NO 
+0 = NO <br>
 1 = YES
 
 **Machine Learning Model:**
