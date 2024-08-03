@@ -3,6 +3,8 @@
 In this project, I will find the best model to assist Beta Bank in promoting more customer retention. Beta Bank already has a strong dataset with each observation being of one customer. The features of the dataset are all the key identifying characteristics of each customer and the target is 'Exited' - whether or not the customer has left. 
 
 **In this Dataset:** <br>
+![image](https://github.com/user-attachments/assets/911c320f-4e01-4bba-b6e0-8cf696749037)
+
 
 **Features** <br>
 
